@@ -1,0 +1,13 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  database: <database_name>
+  username: <user_name_for_mysql>
+  password: <password_for_mysql>
+
+production:
+  adapter: mysql2
+  encoding: utf8
+  database: <database_name>
+  username: <user_name_for_mysql>
+  password: <password_for_mysql>
